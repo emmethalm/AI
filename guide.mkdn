@@ -26,6 +26,14 @@
 
 ### Stable Diffusion
 - Stable Diffusion repo (https://github.com/CompVis/stable-diffusion)
+- Stable Diffusion Tutorial (https://www.youtube.com/watch?v=DHaL56P6f5M)
+- Dream Studio (https://beta.dreamstudio.ai/)
+- SD Guide for Artists & Non-Artists: Tips, Tricks, & Tutorials (https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit)
+- Midjourney (https://www.midjourney.com/)
+- Midjourney Guide: Full Begginer's Tutorial (https://www.youtube.com/watch?v=VUDjpOY3YeE)
+- CivitAI (https://civitai.com/)
+- Intro to LoRA Models (https://www.youtube.com/watch?v=ZHVdNeHZPdc)
+- How AI Image Generators Work (https://www.youtube.com/watch?v=1CIpzeNxIhU)
 
 ### LLMs
 - Claude by Anthropic (https://docs.anthropic.com/claude/docs)
