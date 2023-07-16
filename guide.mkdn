@@ -21,8 +21,11 @@
 - Langchain (https://langchain.com/)
 - Langchain explained in 13 minutes (https://www.youtube.com/watch?v=aywZrzNaKjs)
 - The Langchain cookbook (https://www.youtube.com/watch?v=2xxziIWmaSA)
+- Lanchain tutorials (https://github.com/gkamradt/langchain-tutorials)
+- Langchain example projects (https://github.com/hwchase17/langchain)
 
 ### Stable Diffusion
+- Stable Diffusion repo (https://github.com/CompVis/stable-diffusion)
 
 ### LLMs
 - Claude by Anthropic (https://docs.anthropic.com/claude/docs)
