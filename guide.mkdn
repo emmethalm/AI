@@ -1,10 +1,27 @@
 ## AI Resources
 
+### Everyday AI Developer Tools
+- ChatGPT code interpreter
+- Bard by Google
+- Sydney by Bing
+- Co-Pilot by GitHub
+
 ### Chatbots
+- OpenAI API (https://platform.openai.com/docs/guides/gpt)
+- Beginners Guide to GPT4 API & ChatGPT 3.5 Turbo API Tutorial (https://www.youtube.com/watch?v=LX_DXLlaymg)
+- How to build your own AI with ChatGPT API (https://www.youtube.com/watch?v=4qNwoAAfnk4)
+- ChatGPT Course – Use The OpenAI API to Code 5 Projects (https://www.youtube.com/watch?v=uRQH2CFvedY)
+
+### Agents
+- Langchain (https://langchain.com/)
+- Langchain explained in 13 minutes (https://www.youtube.com/watch?v=aywZrzNaKjs)
+- The Langchain cookbook (https://www.youtube.com/watch?v=2xxziIWmaSA)
 
 ### Stable Diffusion
 
 ### LLMs
+
+### Vector Stores
 
 ### Adv. mathmatics and computation
 
