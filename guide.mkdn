@@ -38,14 +38,29 @@
 - Intro to LoRA Models (https://www.youtube.com/watch?v=ZHVdNeHZPdc)
 
 ### LLMs
-- Claude by Anthropic (https://docs.anthropic.com/claude/docs)
-- GPT4 by OpenAI (https://platform.openai.com/docs/guides/gpt)
-- 
-
+- GPT4 (https://platform.openai.com/docs/guides/gpt)
+- Claude (https://docs.anthropic.com/claude/docs)
+- LLaMA
+- Alpaca
+- Vicuna
+- Orca
+- BLOOM
+- Falcon
+- Large Language Models in 5 minutes (https://www.youtube.com/watch?v=lnA9DMvHtfI)
+- Let's build GPT: from scratch, in code, spelled out (https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- LLaMA & Alpaca Tutorial (https://www.youtube.com/watch?v=kT_-qUxrlOU)
+- Falcon 40B Chatbot in Langchain Tutorial (https://www.youtube.com/watch?v=ukj_ITJKBwE)
 
 ### Vector Stores
+- Pinecone(https://docs.pinecone.io/docs/overview)
+- Chroma (https://www.trychroma.com/)
+- Vector databases explained simply (https://www.youtube.com/watch?v=dN0lsF2cvm4)
+- OpenAI Embeddings and Vector Databases Crash Course (https://www.youtube.com/watch?v=ySus5ZS0b94)
+- Question A 300 Page Book with Langchain & Pinecone (https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=14s)
 
-### Adv. mathmatics and computation
+### Voice Cloning & Deepfakes
+
+### AI Music
 
 ### Online courses
 
