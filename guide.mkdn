@@ -8,13 +8,13 @@ To add a resource or job listing, submit a PR to this repo or DM me [on Twitter]
 
 Happy building. Let's use AI to make the world a little bit better ✌️
 
-###🛠️ Everyday AI Developer Tools
+### 🛠️ Everyday AI Developer Tools
 - ChatGPT code interpreter
 - Bard by Google
 - Sydney by Bing
 - Co-Pilot by GitHub
 
-###💬 Chatbots
+### 💬 Chatbots
 - [OpenAI API ](https://platform.openai.com/docs/guides/gpt)
 - [Beginners Guide to GPT4 API & ChatGPT 3.5 Turbo API Tutorial ](https://www.youtube.com/watch?v=LX_DXLlaymg)
 - [How to build your own AI with ChatGPT API ](https://www.youtube.com/watch?v=4qNwoAAfnk4)
@@ -22,7 +22,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [GPT-4 - How does it work, and how do I build apps with it? Harvard CS50 ](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
 - [AI Companion App Repo ](https://github.com/a16z-infra/companion-app)
 
-###🕵️‍♂️ Agents
+### 🕵️‍♂️ Agents
 - [BabyAGI ](https://github.com/yoheinakajima/babyagi)
 - [AutoGPT ](https://github.com/Significant-Gravitas/Auto-GPT)
 - [GPT-Engineer ](https://github.com/AntonOsika/gpt-engineer)
@@ -33,7 +33,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [Lanchain tutorials ](https://github.com/gkamradt/langchain-tutorials)
 - [Langchain example projects ](https://github.com/hwchase17/langchain)
 
-###🖼️ Stable Diffusion
+### 🖼️ Stable Diffusion
 - [How AI Image Generators Work ](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 - [Stable Diffusion repo ](https://github.com/CompVis/stable-diffusion)
 - [Stable Diffusion Tutorial ](https://www.youtube.com/watch?v=DHaL56P6f5M)
@@ -46,7 +46,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [Hugging Face Models ](https://huggingface.co/models?pipeline_tag=text-to-image&sort=downloads)
 - [Intro to LoRA Models ](https://www.youtube.com/watch?v=ZHVdNeHZPdc)
 
-###🤖 LLMs
+### 🤖 LLMs
 - [GPT4 ](https://platform.openai.com/docs/guides/gpt)
 - [Claude ](https://docs.anthropic.com/claude/docs)
 - [LLaMA ](https://github.com/facebookresearch/llama)
@@ -60,14 +60,14 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [LLaMA & Alpaca Tutorial ](https://www.youtube.com/watch?v=kT_-qUxrlOU)
 - [Falcon 40B Chatbot in Langchain Tutorial ](https://www.youtube.com/watch?v=ukj_ITJKBwE)
 
-###🧮 Vector Stores
+### 🧮 Vector Stores
 - [Pinecone](https://docs.pinecone.io/docs/overview)
 - [Chroma ](https://www.trychroma.com/)
 - [Vector databases explained simply ](https://www.youtube.com/watch?v=dN0lsF2cvm4)
 - [OpenAI Embeddings and Vector Databases Crash Course ](https://www.youtube.com/watch?v=ySus5ZS0b94)
 - [Question A 300 Page Book with Langchain & Pinecone ](https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=14s)
 
-###🗣️ Voice Cloning, Text-To-Speech, & Deepfakes
+### 🗣️ Voice Cloning, Text-To-Speech, & Deepfakes
 - [Eleven Labs ](https://elevenlabs.io/)
 - [Real-Time-Voice-Cloning Repo ](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [OpenAI Whisper ](https://github.com/openai/whisper)
@@ -78,7 +78,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [Tutorial: Create Your Own AI Animated Avatar ](https://www.youtube.com/watch?v=V2efVSXSlqc)
 - [Deepfake Tutorial: A Beginners Guide ](https://www.youtube.com/watch?v=t59gRbpYMiY)
 
-###🎵 AI Music
+### 🎵 AI Music
 - [Uberduck AI Vocals ](https://uberduck.ai/)
 - [Muzic ](https://github.com/microsoft/muzic)
 - [Opensource Database of 100+ Voice Transformation Models ](https://colab.research.google.com/drive/1Gj6UTf2gicndUW_tVheVhTXIIYpFTYc7?usp=sharing)
@@ -86,10 +86,10 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [Tutorial: How the VIRAL AI Drake Song "Heart On My Sleeve" was Made ](https://www.youtube.com/watch?v=pkbQV71ZvK4)
 - [Tutorial: Make an AI Kanye Song ](https://www.youtube.com/watch?v=2sMpIXQcSCA)
 
-###📚 Online courses
+### 📚 Online courses
 - [Harvard CS50's Introduction to Artificial Intelligence with Python ](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?webview=false&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [MIT Machine Learning with Python: from Linear Models to Deep Learning ](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to?index=product&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&webview=false&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [Stanford CS221: Artificial Intelligence: Principles and Techniques ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
-###👷 Job Openings
+### 👷 Job Openings
 <b>Coming soon... Contact me to list an AI-related role.</b>
