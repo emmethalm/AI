@@ -7,7 +7,7 @@
 - Co-Pilot by GitHub
 
 ### Chatbots
-- [OpenAI API (](https://platform.openai.com/docs/guides/gpt))
+- [OpenAI API ](https://platform.openai.com/docs/guides/gpt)
 - [Beginners Guide to GPT4 API & ChatGPT 3.5 Turbo API Tutorial (](https://www.youtube.com/watch?v=LX_DXLlaymg))
 - [How to build your own AI with ChatGPT API (](https://www.youtube.com/watch?v=4qNwoAAfnk4))
 - [ChatGPT Course – Use The OpenAI API to Code 5 Projects (](https://www.youtube.com/watch?v=uRQH2CFvedY))
