@@ -9,10 +9,9 @@ To add a resource or job listing, submit a PR to this repo or DM me [on Twitter]
 Happy building. Let's use AI to make the world a little bit better ✌️
 
 ### 🛠️ Everyday AI Developer Tools
-- ChatGPT code interpreter
-- Bard by Google
-- Sydney by Bing
-- Co-Pilot by GitHub
+- [ChatGPT code interpreter](https://chat.openai.com/?model=gpt-4-code-interpreter)
+- [BardAI by Google](https://bard.google.com/)
+- [GitHub Co-Pilot](https://github.com/features/copilot)
 
 ### 💬 Chatbots
 - [OpenAI API ](https://platform.openai.com/docs/guides/gpt)
