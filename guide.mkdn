@@ -1,8 +1,8 @@
-## The Ultimate List of AI Resources
+## 🧠 The Ultimate List of AI Resources 📚
 
 This is an open-source list of the best AI tutorials & tools for beginners and experienced developers alike.
 
-Who am I? Emmet here -- I'm an indie developer and entrepreneur building AI products in public like [choppedAI](https://choppedai.com/), [TopGPT](https://www.topgpt.io/), [InfiniteGPT](https://github.com/emmethalm/infiniteGPT), [YouTube-to-Chatbot](https://github.com/emmethalm/youtube-to-chatbot), and [Lingoza](https://lingoza.io/).
+Who am I? Emmet here 🤠 I'm an indie developer and entrepreneur building AI products in public like [choppedAI](https://choppedai.com/), [TopGPT](https://www.topgpt.io/), [InfiniteGPT](https://github.com/emmethalm/infiniteGPT), [YouTube-to-Chatbot](https://github.com/emmethalm/youtube-to-chatbot), and [Lingoza](https://lingoza.io/).
 
 To add a resource or job listing, submit a PR to this repo or DM me [on Twitter](https://twitter.com/ehalm_).
 
