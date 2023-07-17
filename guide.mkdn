@@ -1,4 +1,4 @@
-## AI Resources
+## The Ultimate List of AI Resources
 
 This is an open-source list of the best AI tutorials & tools for beginners and experienced developers alike.
 
