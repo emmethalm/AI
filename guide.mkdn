@@ -58,9 +58,23 @@
 - OpenAI Embeddings and Vector Databases Crash Course (https://www.youtube.com/watch?v=ySus5ZS0b94)
 - Question A 300 Page Book with Langchain & Pinecone (https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=14s)
 
-### Voice Cloning & Deepfakes
+### Voice Cloning, Text-To-Speech, & Deepfakes
+- Eleven Labs (https://elevenlabs.io/)
+- Real-Time-Voice-Cloning Repo (https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- OpenAI Whisper (https://github.com/openai/whisper)
+- PlayHT (https://play.ht/)
+- D-ID (https://www.d-id.com/)
+- Faceswap Deepfake Repo (https://github.com/deepfakes/faceswap)
+- DeepFaceLab Repo (https://github.com/iperov/DeepFaceLab)
+- Tutorial: Create Your Own AI Animated Avatar (https://www.youtube.com/watch?v=V2efVSXSlqc)
+- Deepfake Tutorial: A Beginners Guide (https://www.youtube.com/watch?v=t59gRbpYMiY)
 
 ### AI Music
+- Uberduck AI Vocals (https://uberduck.ai/)
+- Muzic (https://github.com/microsoft/muzic)
+- Opensource Database of 100+ Voice Transformation Models (https://colab.research.google.com/drive/1Gj6UTf2gicndUW_tVheVhTXIIYpFTYc7?usp=sharing)
+- Tutorial: How to Make an AI Cover (https://www.youtube.com/watch?v=AZWVZWOKzmc)
+- Tutorial: How the VIRAL AI Drake Song "Heart On My Sleeve" was Made (https://www.youtube.com/watch?v=pkbQV71ZvK4)
 
 ### Online courses
 
